@@ -13,5 +13,3 @@ For any inquiries, you can reach us at:
     - [Link to the project]
 2. **Project 2**: [brief description of the project]
     - [Link to the project]
-3. **Project 3**: [brief description of the project]
-    - [Link to the project]
